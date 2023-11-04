@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cbf0117e9a1460ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vim keybindings.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "626425f7442004ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vim keybindings.md",
+                "file": "Vampire RPG/Vampire RPG plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vim keybindings.md",
+                "file": "Vampire RPG/Vampire RPG plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vim keybindings.md",
+                "file": "Vampire RPG/Vampire RPG plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vim keybindings.md"
+                "file": "Vampire RPG/Vampire RPG plan.md"
               }
             }
           },
@@ -168,9 +156,12 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "cbf0117e9a1460ac",
+  "active": "626425f7442004ff",
   "lastOpenFiles": [
-    "Vim keybindings.md",
+    "Obsidian Tools/Vim keybindings.md",
+    "Vampire RPG/Vampire RPG plan.md",
+    "Vampire RPG",
+    "Obsidian Tools",
     "2023-11-04.md",
     "LICENSE"
   ]

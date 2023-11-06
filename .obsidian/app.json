@@ -1,9 +1,7 @@
 {
-  "tabSize": 7,
-  "newFileLocation": "current",
-  "alwaysUpdateLinks": true,
   "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
   "attachmentFolderPath": "./Attachments",
-  "showLineNumber": true,
-  "promptDelete": false
+  "showLineNumber": true
 }

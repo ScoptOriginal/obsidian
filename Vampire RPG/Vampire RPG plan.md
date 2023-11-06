@@ -1,14 +1,14 @@
 Key features
-- stealth
-- feeding
-- blood meter
-- crits
-- 3d models for fights and cut-in animations
-- turn-based combat as solid as the Dragon Quest series
-- synergised skills and abilities
-- party system
-- Rage Mode
-- morality
+- [[Stealth]]
+- [[Feeding]]
+- [[blood meter]]
+- [[crits]]
+- 3d models for fights and [[cut-in animations]]
+- [[turn-based combat]] as solid as the Dragon Quest series
+- [[Synergized Skills and Abilities]]
+- [[party system]]
+- [[Rage Mode]]
+- [[morality]]
 
 Overall story
 - the player is an ancient vampire who has sworn to resurrect their old friend
@@ -40,7 +40,7 @@ Crits
 
 Skills and abilities
 - player can level up by killing enemies, completing quests, discovering locations and drinking blood
-- levelling up gives 1 Evolve point (or 2 if no blood has been consumed)
+- levelling up gives 1 [[Evolve]] point (or 2 if no blood has been consumed)
 - stronger skills and abilities crit more
 - many improve crits
 - some magic, some vampiric abilities

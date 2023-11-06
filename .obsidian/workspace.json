@@ -64,6 +64,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "638b40279559616d",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {}
+            }
           }
         ]
       }
@@ -153,11 +161,37 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "626425f7442004ff",
+  "active": "338c2aac0cf8568f",
   "lastOpenFiles": [
+    "Readwise/Articles/Vampire Survivors How Developers Used Gambling Psychology to Create a Bafta-Winning Game.md",
+    "Readwise/Articles",
+    "Helpdesk.md",
+    "Excalidraw",
+    "Readwise/Books/Free the Darkness.md",
+    "Readwise/Books/Reading Like a Writer.md",
+    "Readwise/Books/Crown of Midnight.md",
+    "Readwise/Books",
+    "Readwise",
+    "Vampire RPG/Evolve.md",
+    "Vampire RPG/Crits.md",
+    "Vampire RPG/Rage Mode.md",
+    "Vampire RPG/Blood Meter.md",
+    "Vampire RPG/Vampiric Abilities.md",
+    "Vampire RPG/Vampire Clans.md",
+    "Vampire RPG/Side Quests.md",
+    "Vampire RPG/Morality.md",
+    "Vampire RPG/Party System.md",
+    "Vampire RPG/Synergized Skills and Abilities.md",
+    "Vampire RPG/Turn-based Combat.md",
+    "Vampire RPG/Cut-in Animations.md",
+    "Vampire RPG/Stealth.md",
+    "Vampire RPG/Feeding.md",
+    "Vampire RPG/Design Document.md",
+    "Vampire RPG/Day and Night Cycle.md",
     "Obsidian Tools/Vim keybindings.md",
     "Vampire RPG/Vampire RPG plan.md",
     "Vampire RPG",

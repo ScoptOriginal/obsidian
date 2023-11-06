@@ -1,0 +1,4 @@
+- When feeding, players gain blood meter based on the amount of blood consumed, as detailed in [[Feeding]]
+- Players can unlock a [[Vampiric Abilities|Vampiric Ability]] that allows them to spend Blood meter to heal
+- When blood meter is full, players enter [[Rage Mode]]
+- Health and Damage is increased by % of blood meter filled

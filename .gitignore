@@ -1,0 +1,16 @@
+
+*.json
+.obsidian/app.json
+Uninstall Obsidian.exe
+*.bin
+*.dll
+*.asar
+*.node
+*.exe
+*.pak
+*.html
+*.txt
+*.dat
+*.css
+*.js
+*.json

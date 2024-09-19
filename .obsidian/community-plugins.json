@@ -27,5 +27,8 @@
   "obisidian-note-linker",
   "obsidian-rich-links",
   "supercharged-links-obsidian",
-  "waypoint"
+  "waypoint",
+  "hints-plugin",
+  "obsidian-buttondown-plugin",
+  "vimium"
 ]

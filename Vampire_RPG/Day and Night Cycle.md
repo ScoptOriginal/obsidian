@@ -13,3 +13,6 @@ To implement a day/night cycle using Construct, you can follow these general ste
 6. Repeat Cycle: Once the "timeOfDay" variable reaches the end of your desired day/night cycle, reset it back to the starting value and repeat the cycle to create a continuous day/night progression.
 
 Remember to test and iterate on your implementation to ensure that the day/night cycle feels smooth and visually appealing in your game.
+
+-
+- Categories: #vampire_RPG

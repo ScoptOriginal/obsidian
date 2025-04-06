@@ -1,2 +1,4 @@
 - [[Vampire RPG plan]]
+- [[Templates]]
+- [[Readwise]]
 -

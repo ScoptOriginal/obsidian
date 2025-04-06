@@ -1,4 +1,4 @@
-- [[Vampire RPG plan]]
+- [[vampire_RPG]]
 - [[Templates]]
 - [[Readwise]]
 - [[Obsidian Tools]]

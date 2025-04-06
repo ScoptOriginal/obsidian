@@ -14,4 +14,4 @@ ctrl+ws - split window
 i - enter edit mode
 
 -
--
+- #[[Obsidian Tools]]

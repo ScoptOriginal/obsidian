@@ -67,3 +67,4 @@ Key features
 - Blood Magic
 - Items
 -
+- Categories: #vampire_RPG

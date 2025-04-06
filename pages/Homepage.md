@@ -2,4 +2,3 @@
 - [[Templates]]
 - [[Readwise]]
 - [[Obsidian Tools]]
--

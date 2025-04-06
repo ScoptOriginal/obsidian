@@ -12,3 +12,6 @@ diw - delete word
 ?pattern - search backwards for pattern
 ctrl+ws - split window
 i - enter edit mode
+
+-
+-

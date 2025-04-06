@@ -2,3 +2,5 @@
 - Players can unlock a [[Vampiric Abilities|Vampiric Ability]] that allows them to spend Blood meter to heal
 - When blood meter is full, players enter [[Rage Mode]]
 - Health and Damage is increased by % of blood meter filled
+-
+- Categories: #vampire_RPG
